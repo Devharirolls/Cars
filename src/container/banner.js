@@ -5,7 +5,6 @@ import Img1 from '../images/car1.jpg';
 import Img7 from '../images/car7.jpg';
 import Img2 from '../images/car2.jpg';
 import Img3 from '../images/car3.jpg';
-// import Img4 from '../images/img-4.jpg';
 import Img5 from '../images/car5.jpg';
 import Img6 from '../images/car6.jpg';
 import Img8 from '../images/car4.jpg';
